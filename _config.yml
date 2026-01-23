@@ -24,19 +24,19 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "wenxuan.png"
   name: "Wenxuan Wu"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Phd Graduate of applied crytography from Texas A&M University."
   location: "Earth"
   employer: "Texas A&M University"
   uri: # URL
-  email: "none@example.org"
+  email: "ww6726@tamu.edu"
 
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?user=oFVCquAAAAAJ&hl=en"
   inspire-hep: # URL
   impactstory: # URL
   orcid: "https://orcid.org/yourorcidurl"
